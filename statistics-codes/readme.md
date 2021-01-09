@@ -2,7 +2,7 @@
 
 ### Structure:
 * **CND-features_processed.csv** - contains the data after imputation of missing values
-* **preprocess.ipynb**&emsp;- contains the preprocessing of the data, i. e. imputeing missing values, dropping features ...
+* **preprocess.ipynb**&emsp;&emsp;&emsp;- contains the preprocessing of the data, i. e. imputeing missing values, dropping features ...
 * **deletefeatures**             - folder contains the dropped features, where this is necessary
 * **filtering.ipynb**            - contains the code for filter method based feature selection
 * **filter**                     - folder contains the independent features got after filtering
