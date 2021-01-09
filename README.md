@@ -1,7 +1,7 @@
 # CNDinvestigation
 This repository contains data, algorithms and useful information used in the article:
 ***
-Opportunities and challenges of partitioning  the space of real-world network measures
+*Opportunities and challenges of partitioning  the space of real-world network measures*
 ***
 
 ### Structure of the repository:
