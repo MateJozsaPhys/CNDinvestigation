@@ -1,6 +1,7 @@
 ## Here you can find algorithms used for statistics in the article.
 
 ### Structure:
+0. "CND-features_processed.csv" contains the data after imputation of missing values
 1. "preprocess.ipynb" contains the preprocessing of the data, i. e. imputeing missing values, dropping features ...
 2. "deletefeatures" folder contains the dropped features, where this is necessary
 3. "filtering.ipynb" contains the code for filter method based feature selection
