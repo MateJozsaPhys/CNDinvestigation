@@ -1,6 +1,6 @@
 ## Here you can find algorithms used for statistics in the article.
 
-### Structure of statistics:
+### Structure of *statistics-codes*:
 * **CND-features_processed.csv** contains the data after imputation of missing values
 * **preprocess.ipynb** contains the preprocessing of the data, i. e. imputeing missing values, dropping features ...
 * **deletefeatures** folder contains the dropped features, where this is necessary
