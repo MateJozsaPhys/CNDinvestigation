@@ -1,7 +1,7 @@
 # CNDinvestigation
 This repository contains data, algorithms and useful information used in the article:
 ***
-*Opportunities and challenges of partitioning  the space of real-world network measures.*, Máté Józsa, Alpár S. Lázár, Zsolt I. Lázár.
+*Opportunities and challenges in partitioning the graph measure space of real-world networks.*, Máté Józsa, Alpár S. Lázár, Zsolt I. Lázár.
 ***
 
 ### Structure of the *repository*:
